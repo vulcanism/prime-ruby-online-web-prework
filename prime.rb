@@ -1,3 +1,3 @@
 def prime?(n)
-  Prime.prime?(n)
+  prime = Prime.prime?(n)
 end
